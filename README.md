@@ -29,7 +29,13 @@
 </div>
 
 
+## 📈 GitHub Contribution Graph
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishgit4&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashishgit4&style=for-the-badge)
