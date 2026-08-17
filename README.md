@@ -18,12 +18,22 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashishgit4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" />
 
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashishgit4&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashishgit4&theme=dark&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+### 🔝 Top Contributed Repositories
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+</div>
 ---
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ashishgit4)
 
