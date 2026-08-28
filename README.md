@@ -34,8 +34,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ashishgit4&icon=3&color=11)](https://visitcount.itsvg.in)
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
 
 # 📈 GitHub Contribution Graph
 
