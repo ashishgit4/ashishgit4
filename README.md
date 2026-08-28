@@ -36,29 +36,7 @@
 ---
 
 
-# 📈 GitHub Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishgit4&theme=github-dark&hide_border=true&area=true" width="95%" />
-
-</div>
-
-#🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%" />
-
-</div>
-
-#🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashishgit4&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1" width="95%" />
-
-</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
