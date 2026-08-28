@@ -34,9 +34,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
+
 
 # 📈 GitHub Contribution Graph
 
@@ -88,5 +86,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ashishgit4&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1" width="95%" />
 
 </div>
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ashishgit4&style=for-the-badge">
+</a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
