@@ -37,7 +37,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishgit4&theme=github-dark&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/lifetime.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-cards/lifetime.light.svg">
+  <img src="./profile-cards/lifetime.dark.svg"
+       width="95%"
+       alt="GitHub Contribution Graph">
+</picture>
 
 </div>
 
