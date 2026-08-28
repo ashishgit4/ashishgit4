@@ -33,16 +33,16 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 📈 GitHub Contribution Graph
+# 🔥 GitHub Contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/lifetime.dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-cards/lifetime.light.svg">
-  <img src="./profile-cards/lifetime.dark.svg"
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/contributions.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-cards/contributions.light.svg">
+  <img src="./profile-cards/contributions.dark.svg"
        width="95%"
-       alt="GitHub Contribution Graph">
+       alt="GitHub Contributions">
 </picture>
 
 </div>
