@@ -40,23 +40,35 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishgit4&theme=github-dark&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishgit4&theme=github-dark&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph">
 
 </div>
 
-#🔝 Top Contributed Repositories
+---
+
+# 🔝 Top Contributed Repositories
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%" alt="Top Contributed Repositories">
 
 </div>
 
-#🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashishgit4&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashishgit4&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1" width="95%" alt="GitHub Trophies">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ashishgit4&style=for-the-badge&color=11" alt="Profile Views">
 
 </div>
 
