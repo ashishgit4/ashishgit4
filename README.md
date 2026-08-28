@@ -33,6 +33,20 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+# 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/lifetime.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-cards/lifetime.light.svg">
+  <img src="./profile-cards/lifetime.dark.svg"
+       width="95%"
+       alt="GitHub Contribution Graph">
+</picture>
+
+</div>
+
 # 🔥 GitHub Contributions
 
 <div align="center">
