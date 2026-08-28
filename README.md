@@ -35,7 +35,6 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 # 📈 GitHub Contribution Graph
 
 <div align="center">
@@ -66,11 +65,7 @@
 
 ---
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ashishgit4&style=for-the-badge&color=11" alt="Profile Views">
-
-</div>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ashishgit4&style=for-the-badge">
