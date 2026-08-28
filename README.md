@@ -1,5 +1,5 @@
 
----
+
 # 💫 About Me:
 🌐 Full-Stack Web Development<br>🤖 AI-Powered Applications<br>🗄️ Databases & Backend Technologies — SQL, PL/SQL, MySQL & MongoDB<br>🧩 Data Structures & Algorithms<br>⚙️ Software Engineering & Development Practices
 
@@ -25,8 +25,6 @@
 ![](https://streak-stats.demolab.com/?user=ashishgit4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishgit4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -40,26 +38,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishgit4&theme=github-dark&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph">
-
-</div>
-
----
-
-# 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ashishgit4&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%" alt="Top Contributed Repositories">
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashishgit4&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1" width="95%" alt="GitHub Trophies">
 
 </div>
 
